@@ -7,7 +7,7 @@ This program uses the following libraries:
 * pymongo
 
 ### How to Use
-1. Start a local MongoDB server on port 27017.
+1. Start a local MongoDB server.
 2. Run the program.
 3. Access the Dash server through your web browser using the address "localhost:8050".
 4. Use the following credentials to login: username = "user", password = "password".
