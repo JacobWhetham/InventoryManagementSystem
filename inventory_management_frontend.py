@@ -82,7 +82,7 @@ def start():
         ])
 ], style={"background": "#348AA7"})
 
-    app.run_server(host="0.0.0.0", port="8050", debug=True)  # Starts the app.
+    app.run_server(host="0.0.0.0", port="8050")  # Starts the app.
 
 
 @app.callback(
